@@ -8,7 +8,7 @@ import org.apache.pdfbox.util.PDFTextStripper;
 
 public class ExtractText {
 	private final int it = 0;
-	private final int i = 0;
+	private final int i = 10;
 	
 	public static void main(String[] args) {
 		PDDocument pd;
